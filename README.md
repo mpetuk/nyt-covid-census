@@ -84,6 +84,7 @@ At the very first execution, the script is designed to create folders structure 
 
 <ul>
 <li>add logging</li>
+<li>add requirements.txt</li>
 <li>reconcile the rest of the records with FIPS missing (and county is not 'Uknown') or not matching Census (US territories)</li>
 <ul>
 <li>get population for US territories' counties</li>
@@ -91,6 +92,7 @@ At the very first execution, the script is designed to create folders structure 
 <li>add downloading of a new Census file based on current date and the date when next year's data becomes available (once a year)</li>
 <li>choose population metric based on current date </li>
 <li>process only net new/delta records from COVID-19 data and change structure to update existing report with new data points</l>
+<li>consider running weekly reports once a week</li>
 <li>consider adding records for missing dates so that each county has the same number of records - to help with dashboards, charts, and other representations of time series data</l>
 </ul>
 
