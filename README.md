@@ -83,6 +83,8 @@ At the very first execution, the script is designed to create folders structure 
 ## Things you would add given more time
 
 <ul>
+<li>add error handling (e.g., network problems)</li>
+<li>automated sanity checks (using assertation, for example</li>
 <li>add logging</li>
 <li>add requirements.txt</li>
 <li>reconcile the rest of the records with FIPS missing (and county is not 'Uknown') or not matching Census (US territories)</li>

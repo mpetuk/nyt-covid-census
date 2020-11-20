@@ -12,8 +12,7 @@ url_covid = 'https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-c
 
 # Census data: continental US population by county 
 # Updated once a year: new columns added
-
-url_census= 'https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/totals/co-est2019-alldata.csv'
+# https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/totals/co-est2019-alldata.csv
 
 
 # Download census file locally unless already downloaded:
